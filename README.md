@@ -36,4 +36,10 @@ Ensure you have the following libraries installed:
 
 This README file will provide a comprehensive overview of your project and help others understand its purpose and usage. Let me know if you need further assistance!
 
+# Outputs:
+![1](https://github.com/user-attachments/assets/c8cb947a-c11f-43a3-82c7-85aa1255cc95)
+![2](https://github.com/user-attachments/assets/cd3f6c91-ea45-462e-86b6-f598acfe1a5c)
+![3](https://github.com/user-attachments/assets/d4e0cc6b-ec16-4f3b-96f7-fa7a44c2272f)
+
+
 
